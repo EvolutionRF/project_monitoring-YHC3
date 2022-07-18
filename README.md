@@ -1,6 +1,7 @@
 # project_monitoring-YHC3
 Web Project Monitoring; project seleksi magang YHC batch 3
 Menggunakan Codeigniter4 + Bootstrap 5.1 + PHP Version 7.4.29 + MySQL
+Bootstrap yang digunakan secara online, jadi sebaiknya membuka saat komputer sedang terhubung ke internet
 
 Page dasar ada 2 yaitu Home dan Leader, (Home menampilkan Project yang ada, Dan Leader untuk pengelolaan data Leader)
 
